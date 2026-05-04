@@ -1,0 +1,4 @@
+<Solution>
+  <Folder Name="/TaskManager_frontend/" />
+  <Project Path="TaskManager_backend/TaskManager_backend.csproj" />
+</Solution>
